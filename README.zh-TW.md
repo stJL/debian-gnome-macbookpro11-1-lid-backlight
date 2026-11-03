@@ -126,7 +126,7 @@ state: closed
 先複製專案：
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/debian-gnome-macbookpro11-1-lid-backlight.git
+git clone https://github.com/stJL/debian-gnome-macbookpro11-1-lid-backlight.git
 cd debian-gnome-macbookpro11-1-lid-backlight
 ```
 
@@ -250,4 +250,10 @@ sudo reboot
 
 本專案由 Repository 維護者在自己的實體硬體上實作及測試。
 
-**OpenAI 的
+**OpenAI 的 ChatGPT** 在整個過程中協助了技術問題排查、Shell 腳本開發、除錯、文件撰寫及專案整理。
+
+最終實作及實機測試由 Repository 維護者親自完成，並在 AI 的協助下完成文件整理。
+
+## 授權
+
+本專案採用 MIT License，詳細內容請參閱 [LICENSE](LICENSE)。
