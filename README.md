@@ -1,5 +1,7 @@
 # Debian GNOME MacBookPro11,1 Lid Backlight Control
 
+**English** | [繁體中文](README.zh-TW.md)
+
 A lid-backlight control solution for the **2013 13-inch Retina MacBook Pro (MacBookPro11,1)** running **Debian 13 with GNOME**.
 
 This project automatically turns off the internal display backlight when the laptop lid is closed, restores the previous brightness when opened, and allows the system to remain running for remote access.
