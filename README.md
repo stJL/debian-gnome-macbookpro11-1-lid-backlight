@@ -126,7 +126,7 @@ state: closed
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/debian-gnome-macbookpro11-1-lid-backlight.git
+git clone https://github.com/stJL/debian-gnome-macbookpro11-1-lid-backlight.git
 cd debian-gnome-macbookpro11-1-lid-backlight
 ```
 
